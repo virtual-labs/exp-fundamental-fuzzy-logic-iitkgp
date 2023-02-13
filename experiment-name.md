@@ -1,0 +1,1 @@
+## Introduction to Fundamental of Fuzzy Logic and Basic Operations &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/iitkgp.png" width="4%" />

@@ -1,0 +1,27 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Given A= {-3, 2, 4} B = {-1, 0, 6}.Then ( A + B ) will be?",
+      "answers": {
+        "a": "{-2,0,4}",
+        "b": "{-4,2,10}",
+        "c": "{-4,0,2}",
+        "d": "{2,2,4}"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Given A= {1, 2, -4} B = {2, -4, 6}.Then ( A − B ) will be?",
+      "answers": {
+        "a": "{-5,6,-6}",
+        "b": "{-1,6,-10}",
+        "c": "{1,-2,2}",
+        "d": "{-5,-6,2}"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
