@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "If A and B are two fuzzy sets with membership functions A(x) = {0.6, 0.5, 0.1, 0.7, 0.8} B(x) = {0.9, 0.2, 0.6, 0.8, 0.5}.Then the value of Complement A ∪ B(x) will be? ",
+      "question": "If A and B are two fuzzy sets with membership functions A(x) = {0.6, 0.5, 0.1, 0.7, 0.8} B(x) = {0.9, 0.2, 0.6, 0.8, 0.5}.Then the value of Complement A(x) ∪ B(x) will be? ",
       "answers": {
         "a": "{0.9, 0.5, 0.6, 0.8, 0.8}",
         "b": "{0.6, 0.2, 0.1, 0.7, 0.5}",

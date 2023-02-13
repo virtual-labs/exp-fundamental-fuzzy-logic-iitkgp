@@ -33,25 +33,23 @@
 6. Similarly, Perform the Same for other Operations.
     Note:In case of Fuzzy Complement operation only One Membership Function will be plotted.
 
-    <center>
-    <img src="./images/comp.png" style="width:65%;">
 
-    ***Fig.1 - Fuzzy Complement***
-    </center>
+<center>
+<img src="./images/comp.png" style="width:65%;">
+
+***Fig.1 - Fuzzy Complement***
+</center>
     
+<center>
+<img src="./images/union.png" style="width:65%;">
 
-    <center>
-    <img src="./images/union.png" style="width:65%;">
-
-    ***Fig.2 - Fuzzy Union***
-    </center>
-    
-
+***Fig.2 - Fuzzy Union***
+</center>
 
     
-    <center>
-    <img src="./images/inter.png" style="width:65%;">
+<center>
+<img src="./images/inter.png" style="width:65%;">
 
-    ***Fig.3 - Fuzzy Intersection***
-    </center>
+***Fig.3 - Fuzzy Intersection***
+</center>
     
