@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/3.8.1/math.min.js">
+//<script type="text/javascript" src="js/math.js">
+</script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.7.1.min.js"></script>
+<script src ="./js/exp1.js"></script>
+<link rel="stylesheet" type="text/css" href="css/exp1.css">
+</head>
+   <body>
+   <div class="wrapper">
+   		<div class="upperSection">
+	<center><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Introduction to Fundamental of Fuzzy Logic and Basic Operations Simulator</center>
+		</div><!-- end of .upperSection-->
+   		<div class="lowerSection">
+			<div class="leftSidebar">
+			<center><h1>Plot<h1></center></br>&nbsp;&nbsp;&nbsp;&nbsp;
+			  <input type="radio" id="addition" name="operation" value="addition" onclick="addition()" checked> Addition</br>&nbsp;&nbsp;&nbsp;&nbsp;
+              <input type="radio" id="substraction" name="operation" value="substraction" onclick="substraction()"> Substraction</br>&nbsp;&nbsp;&nbsp;&nbsp;
+			  <input type="radio" id="complement" name="operation" value="complement" onclick="complement()"> Complement</br>&nbsp;&nbsp;&nbsp;&nbsp;
+              <input type="radio" id="union" name="operation" value="union" onclick="union()"> Union <br>&nbsp;&nbsp;&nbsp;&nbsp;
+			  <input type="radio" id="intersection" name="operation" value="intersection" onclick="intersection()"> Intersection <br><br>&nbsp;&nbsp;&nbsp;
+	          <input type="button" id="calculate" name="Calculate" value="CALCULATE" >&nbsp;&nbsp;&nbsp;
+              <input type="button" id="clr" name="Clear" value="CLEAR"  onclick="clr()"> 
+                <div class="dropdown">
+                    <h2>INSTRUCTION</h2>
+                    <div class="dropdown-content">
+                        <ol type="1">
+                            <li>Select any one operation.</li>
+                            <li>To perform Compliment operation take 2 points on X-axis</li>
+                            <li>For other operations take 4 points on X-axis  </li>
+                            <li>After taking the respective points click on Calculate Button.</li>
+                            <li>To clear the result click on Clear button.</li>
+                        </ol> 
+                </div>
+            </div>			  			
+			</div>
+						<!--------------- end of .leftSidebar----------------------->
+			<div class="content">
+				<div class="canvas2d-view" id="canvas2d-view">  
+            		<canvas id="canvas" width="900" height="540" style="color:#0000FF;background-color:#ffffff">
+					</canvas>
+					<br> 
+<!--					<output id=out></output>				
+-->					</div> <!-- end of .canvas2d-view-->
+					<strong> ** To perform the experiment click on X-axis</strong>
+			</div><!-- end of .content-->
+		</div><!-- end of .lowerSection -->
+            <footer class="default" id="lab-footer">
+                <!-- Put the content here-->
+                <div style="margin-left:25%; margin-right:10% ">
+                    Copyright &copy; 2008-2016 Indian Institute of Technology Kharagpur,<a href="../license/index.html" target="_blank" style="margin:auto"> Licensing Terms </a>
+                </div>
+            </footer>
+   </div><!-- end of .wrapper -->
+<!-- <input type="text" id="coor" />
+-->  </body>
+</html>
