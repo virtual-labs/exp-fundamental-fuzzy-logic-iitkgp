@@ -1,0 +1,570 @@
+
+/home/runner/work/exp-fundamental-fuzzy-logic-iitkgp/exp-fundamental-fuzzy-logic-iitkgp/experiment/license/view.js
+  1:246  warning  Unnecessary semicolon  no-extra-semi
+
+/home/runner/work/exp-fundamental-fuzzy-logic-iitkgp/exp-fundamental-fuzzy-logic-iitkgp/experiment/simulation/js/exp1.js
+  40:12  error  Parsing error: Unexpected token <
+
+/home/runner/work/exp-fundamental-fuzzy-logic-iitkgp/exp-fundamental-fuzzy-logic-iitkgp/experiment/simulation/js/exp2.js
+  57:1  error  Parsing error: Unexpected token <
+
+/home/runner/work/exp-fundamental-fuzzy-logic-iitkgp/exp-fundamental-fuzzy-logic-iitkgp/experiment/simulation/js/jquery-1.7.1.min.js
+  2:820    warning  Empty block statement                                            no-empty
+  2:877    warning  Empty block statement                                            no-empty
+  2:4720   warning  'b' is defined but never used                                    no-unused-vars
+  2:5126   warning  'd' is defined but never used                                    no-unused-vars
+  2:5302   warning  'd' is defined but never used                                    no-unused-vars
+  2:6027   warning  Empty block statement                                            no-empty
+  2:6428   warning  Unnecessary escape character: \-                                 no-useless-escape
+  2:6523   warning  Unnecessary escape character: \/                                 no-useless-escape
+  2:6608   warning  Unnecessary escape character: \-                                 no-useless-escape
+  2:6658   warning  Unnecessary escape character: \/                                 no-useless-escape
+  2:6697   warning  Unnecessary escape character: \/                                 no-useless-escape
+  2:10196  warning  Empty block statement                                            no-empty
+  2:11255  warning  'ActiveXObject' is not defined                                   no-undef
+  2:14574  warning  'i' is defined but never used                                    no-unused-vars
+  2:16984  warning  'h' is assigned a value but never used                           no-unused-vars
+  2:17279  warning  'm' is defined but never used                                    no-unused-vars
+  2:17312  warning  'r' is assigned a value but never used                           no-unused-vars
+  2:19399  warning  'g' is defined but never used                                    no-unused-vars
+  2:21309  warning  Redundant double negation                                        no-extra-boolean-cast
+  2:21836  warning  Redundant double negation                                        no-extra-boolean-cast
+  2:24565  warning  'c' is assigned a value but never used                           no-unused-vars
+  2:24675  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  2:25416  warning  Empty block statement                                            no-empty
+  2:26513  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  2:26963  warning  Redundant double negation                                        no-extra-boolean-cast
+  2:31862  warning  Unnecessary escape character: \.                                 no-useless-escape
+  2:31999  warning  Unnecessary escape character: \-                                 no-useless-escape
+  2:32015  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:56     warning  'q' is defined but never used                                    no-unused-vars
+  3:3638   warning  't' is defined but never used                                    no-unused-vars
+  3:7367   warning  'g' is assigned a value but never used                           no-unused-vars
+  3:11980  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:12006  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:12031  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:13787  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:15016  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:15136  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15177  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15227  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15277  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15341  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15388  warning  Unnecessary escape character: \*                                 no-useless-escape
+  3:15390  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15460  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15473  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15491  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15572  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15609  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15639  warning  Unnecessary escape character: \)                                 no-useless-escape
+  3:15648  warning  Unnecessary escape character: \(                                 no-useless-escape
+  3:15650  warning  Unnecessary escape character: \)                                 no-useless-escape
+  3:15970  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:17350  warning  'b' is defined but never used                                    no-unused-vars
+  3:17505  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:20157  warning  'h' is defined but never used                                    no-unused-vars
+  3:20213  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:20288  warning  Expected a 'break' statement before 'case'                       no-fallthrough
+  3:20305  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:21442  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:21454  warning  Unnecessary escape character: \(                                 no-useless-escape
+  3:23990  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:24003  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:24412  warning  Empty block statement                                            no-empty
+  3:24694  warning  Empty block statement                                            no-empty
+  3:25075  warning  Unnecessary escape character: \=                                 no-useless-escape
+  3:25256  warning  Empty block statement                                            no-empty
+  3:26114  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:26509  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:26511  warning  Unnecessary escape character: \.                                 no-useless-escape
+  3:29597  warning  'd' is defined but never used                                    no-unused-vars
+  3:30269  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:30271  warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:5068   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:5076   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:6100   warning  Empty block statement                                            no-empty
+  4:8493   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:8505   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:8697   warning  Unnecessary escape character: \+                                 no-useless-escape
+  4:8699   warning  Unnecessary escape character: \.                                 no-useless-escape
+  4:8701   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:8717   warning  Unnecessary escape character: \/                                 no-useless-escape
+  4:9799   warning  'c' is defined but never used                                    no-unused-vars
+  4:11116  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  4:11178  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  4:12065  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  4:14424  warning  Unnecessary escape character: \=                                 no-useless-escape
+  4:16789  warning  Empty block statement                                            no-empty
+  4:17420  warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:17432  warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:24520  warning  Empty block statement                                            no-empty
+  4:25630  warning  'e' is assigned a value but never used                           no-unused-vars
+  4:28559  warning  'define' is not defined                                          no-undef
+  4:28571  warning  'define' is not defined                                          no-undef
+  4:28590  warning  'define' is not defined                                          no-undef
+
+/home/runner/work/exp-fundamental-fuzzy-logic-iitkgp/exp-fundamental-fuzzy-logic-iitkgp/experiment/simulation/js/math.min.js
+  27:66     warning  'module' is not defined                                                    no-undef
+  27:112    warning  'define' is not defined                                                    no-undef
+  27:123    warning  'define' is not defined                                                    no-undef
+  27:161    warning  'exports' is not defined                                                   no-undef
+  27:1907   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  27:1991   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  27:2163   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  27:2900   warning  Expected to return a value in method 'get'                                 getter-return
+  27:2930   warning  Empty block statement                                                      no-empty
+  27:5276   warning  'e' is defined but never used                                              no-unused-vars
+  27:6635   warning  'r' is defined but never used                                              no-unused-vars
+  27:8868   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  27:9143   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  27:12187  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  27:16556  warning  'f' is already defined                                                     no-redeclare
+  27:17113  warning  'p' is already defined                                                     no-redeclare
+  27:18861  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  27:19181  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  27:19204  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  27:21351  warning  't' is defined but never used                                              no-unused-vars
+  27:23778  warning  't' is defined but never used                                              no-unused-vars
+  27:24619  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  27:25464  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  27:26192  warning  't' is defined but never used                                              no-unused-vars
+  27:28120  warning  'i' is defined but never used                                              no-unused-vars
+  27:31052  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  28:1333   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  28:2778   warning  'c' is assigned a value but never used                                     no-unused-vars
+  28:5432   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  28:5849   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  28:6921   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  28:29036  warning  't' is defined but never used                                              no-unused-vars
+  28:30455  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  28:31462  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  29:1348   warning  't' is assigned a value but never used                                     no-unused-vars
+  29:1484   warning  'e' is defined but never used                                              no-unused-vars
+  35:11     warning  'a' is defined but never used                                              no-unused-vars
+  35:7745   warning  't' is defined but never used                                              no-unused-vars
+  35:7883   warning  't' is defined but never used                                              no-unused-vars
+  35:10343  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  35:10381  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  35:10435  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  35:10671  warning  'e' is defined but never used                                              no-unused-vars
+  35:10673  warning  't' is defined but never used                                              no-unused-vars
+  35:10675  warning  'r' is defined but never used                                              no-unused-vars
+  35:10677  warning  'n' is defined but never used                                              no-unused-vars
+  42:11     warning  'a' is defined but never used                                              no-unused-vars
+  42:1411   warning  Expected a 'break' statement before 'default'                              no-fallthrough
+  42:5306   warning  'e' is defined but never used                                              no-unused-vars
+  42:5308   warning  't' is defined but never used                                              no-unused-vars
+  42:5310   warning  'r' is defined but never used                                              no-unused-vars
+  42:5312   warning  'n' is defined but never used                                              no-unused-vars
+  42:5900   warning  'e' is defined but never used                                              no-unused-vars
+  42:5902   warning  't' is defined but never used                                              no-unused-vars
+  42:5996   warning  'e' is defined but never used                                              no-unused-vars
+  42:5998   warning  't' is defined but never used                                              no-unused-vars
+  42:6000   warning  'r' is defined but never used                                              no-unused-vars
+  42:6091   warning  'e' is defined but never used                                              no-unused-vars
+  42:6179   warning  'e' is defined but never used                                              no-unused-vars
+  42:6181   warning  't' is defined but never used                                              no-unused-vars
+  42:6183   warning  'r' is defined but never used                                              no-unused-vars
+  42:6274   warning  'e' is defined but never used                                              no-unused-vars
+  42:6276   warning  't' is defined but never used                                              no-unused-vars
+  42:6547   warning  'e' is defined but never used                                              no-unused-vars
+  42:6549   warning  't' is defined but never used                                              no-unused-vars
+  42:6641   warning  'e' is defined but never used                                              no-unused-vars
+  42:6926   warning  'e' is defined but never used                                              no-unused-vars
+  42:9881   warning  't' is defined but never used                                              no-unused-vars
+  42:10394  warning  't' is defined but never used                                              no-unused-vars
+  42:29363  warning  't' is defined but never used                                              no-unused-vars
+  43:5025   warning  'i' is defined but never used                                              no-unused-vars
+  43:7657   warning  'e' is defined but never used                                              no-unused-vars
+  43:7659   warning  't' is defined but never used                                              no-unused-vars
+  43:14942  warning  'e' is defined but never used                                              no-unused-vars
+  43:17519  warning  'e' is defined but never used                                              no-unused-vars
+  43:17521  warning  't' is defined but never used                                              no-unused-vars
+  43:17523  warning  'r' is defined but never used                                              no-unused-vars
+  43:17525  warning  'n' is defined but never used                                              no-unused-vars
+  43:20828  warning  'e' is defined but never used                                              no-unused-vars
+  43:21224  warning  'e' is defined but never used                                              no-unused-vars
+  43:21226  warning  't' is defined but never used                                              no-unused-vars
+  43:21228  warning  'r' is defined but never used                                              no-unused-vars
+  43:21230  warning  'n' is defined but never used                                              no-unused-vars
+  43:21848  warning  'e' is defined but never used                                              no-unused-vars
+  43:23654  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  43:23745  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  43:23776  warning  't' is already defined                                                     no-redeclare
+  43:23822  warning  'r' is already defined                                                     no-redeclare
+  43:26479  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  43:28203  warning  'r' is already defined                                                     no-redeclare
+  43:28640  warning  'r' is already defined                                                     no-redeclare
+  43:29072  warning  'r' is already defined                                                     no-redeclare
+  43:30806  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  43:30981  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  43:31474  warning  'i' is already defined                                                     no-redeclare
+  44:1      warning  'r' is assigned a value but never used                                     no-unused-vars
+  44:1187   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  44:6680   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  44:6735   warning  'L' is already defined                                                     no-redeclare
+  44:6754   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  44:8066   warning  'L' is already defined                                                     no-redeclare
+  44:22647  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  44:23149  warning  'L' is already defined                                                     no-redeclare
+  44:23219  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  44:23242  warning  'W' is already defined                                                     no-redeclare
+  44:23265  warning  'L' is already defined                                                     no-redeclare
+  44:23274  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  44:23495  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  44:23625  warning  'r' is already defined                                                     no-redeclare
+  44:23634  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  44:23726  warning  'r' is defined but never used                                              no-unused-vars
+  44:23883  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  44:24320  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  44:24794  warning  'u' is already defined                                                     no-redeclare
+  44:24806  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  44:25078  warning  'd' is already defined                                                     no-redeclare
+  44:25262  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  44:25321  warning  'g' is already defined                                                     no-redeclare
+  44:25339  warning  'u' is already defined                                                     no-redeclare
+  44:25553  warning  'u' is already defined                                                     no-redeclare
+  44:25606  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  44:26086  warning  'pi' is not defined                                                        no-undef
+  44:30755  warning  Empty block statement                                                      no-empty
+  45:12252  warning  't' is defined but never used                                              no-unused-vars
+  45:12315  warning  'r' is defined but never used                                              no-unused-vars
+  45:14847  warning  Unexpected control character(s) in regular expression: \x1b                no-control-regex
+  45:16127  warning  'r' is already defined                                                     no-redeclare
+  45:17913  warning  't' is defined but never used                                              no-unused-vars
+  45:18649  warning  'e' is defined but never used                                              no-unused-vars
+  45:18750  warning  'e' is defined but never used                                              no-unused-vars
+  45:18845  warning  't' is defined but never used                                              no-unused-vars
+  45:18998  warning  't' is defined but never used                                              no-unused-vars
+  45:25156  warning  't' is defined but never used                                              no-unused-vars
+  45:25283  warning  'e' is defined but never used                                              no-unused-vars
+  45:25285  warning  't' is defined but never used                                              no-unused-vars
+  45:25287  warning  'n' is defined but never used                                              no-unused-vars
+  45:25289  warning  'i' is defined but never used                                              no-unused-vars
+  46:357    warning  't' is defined but never used                                              no-unused-vars
+  46:710    warning  't' is defined but never used                                              no-unused-vars
+  46:1044   warning  't' is defined but never used                                              no-unused-vars
+  46:1339   warning  't' is defined but never used                                              no-unused-vars
+  46:1733   warning  't' is defined but never used                                              no-unused-vars
+  46:2066   warning  't' is defined but never used                                              no-unused-vars
+  46:2546   warning  't' is defined but never used                                              no-unused-vars
+  46:2967   warning  't' is defined but never used                                              no-unused-vars
+  46:3348   warning  't' is defined but never used                                              no-unused-vars
+  46:3717   warning  't' is defined but never used                                              no-unused-vars
+  46:3998   warning  't' is defined but never used                                              no-unused-vars
+  46:4288   warning  't' is defined but never used                                              no-unused-vars
+  46:4584   warning  't' is defined but never used                                              no-unused-vars
+  46:4807   warning  't' is defined but never used                                              no-unused-vars
+  46:4955   warning  't' is defined but never used                                              no-unused-vars
+  46:5216   warning  't' is defined but never used                                              no-unused-vars
+  46:5462   warning  't' is defined but never used                                              no-unused-vars
+  46:5652   warning  't' is defined but never used                                              no-unused-vars
+  46:5847   warning  't' is defined but never used                                              no-unused-vars
+  46:6045   warning  't' is defined but never used                                              no-unused-vars
+  46:6248   warning  't' is defined but never used                                              no-unused-vars
+  46:6385   warning  't' is defined but never used                                              no-unused-vars
+  46:6529   warning  't' is defined but never used                                              no-unused-vars
+  46:6801   warning  't' is defined but never used                                              no-unused-vars
+  46:7142   warning  't' is defined but never used                                              no-unused-vars
+  46:7343   warning  't' is defined but never used                                              no-unused-vars
+  46:7534   warning  't' is defined but never used                                              no-unused-vars
+  46:7767   warning  't' is defined but never used                                              no-unused-vars
+  46:7912   warning  't' is defined but never used                                              no-unused-vars
+  46:8084   warning  't' is defined but never used                                              no-unused-vars
+  46:8412   warning  't' is defined but never used                                              no-unused-vars
+  46:8794   warning  't' is defined but never used                                              no-unused-vars
+  46:9132   warning  't' is defined but never used                                              no-unused-vars
+  46:9568   warning  't' is defined but never used                                              no-unused-vars
+  46:9926   warning  't' is defined but never used                                              no-unused-vars
+  46:10097  warning  't' is defined but never used                                              no-unused-vars
+  46:10312  warning  't' is defined but never used                                              no-unused-vars
+  46:10826  warning  't' is defined but never used                                              no-unused-vars
+  46:11118  warning  't' is defined but never used                                              no-unused-vars
+  46:11344  warning  't' is defined but never used                                              no-unused-vars
+  46:11573  warning  't' is defined but never used                                              no-unused-vars
+  46:11834  warning  't' is defined but never used                                              no-unused-vars
+  46:12099  warning  't' is defined but never used                                              no-unused-vars
+  46:12314  warning  't' is defined but never used                                              no-unused-vars
+  46:12575  warning  't' is defined but never used                                              no-unused-vars
+  46:12857  warning  't' is defined but never used                                              no-unused-vars
+  46:13154  warning  't' is defined but never used                                              no-unused-vars
+  46:13385  warning  't' is defined but never used                                              no-unused-vars
+  46:13662  warning  't' is defined but never used                                              no-unused-vars
+  46:13860  warning  't' is defined but never used                                              no-unused-vars
+  46:14333  warning  't' is defined but never used                                              no-unused-vars
+  46:14585  warning  't' is defined but never used                                              no-unused-vars
+  46:14867  warning  't' is defined but never used                                              no-unused-vars
+  46:15095  warning  't' is defined but never used                                              no-unused-vars
+  46:15473  warning  't' is defined but never used                                              no-unused-vars
+  46:15824  warning  't' is defined but never used                                              no-unused-vars
+  46:16032  warning  't' is defined but never used                                              no-unused-vars
+  46:16461  warning  't' is defined but never used                                              no-unused-vars
+  46:16712  warning  't' is defined but never used                                              no-unused-vars
+  46:16954  warning  't' is defined but never used                                              no-unused-vars
+  46:17197  warning  't' is defined but never used                                              no-unused-vars
+  46:17419  warning  't' is defined but never used                                              no-unused-vars
+  46:17675  warning  't' is defined but never used                                              no-unused-vars
+  46:17891  warning  't' is defined but never used                                              no-unused-vars
+  46:18131  warning  't' is defined but never used                                              no-unused-vars
+  46:18642  warning  't' is defined but never used                                              no-unused-vars
+  46:19006  warning  't' is defined but never used                                              no-unused-vars
+  46:19486  warning  't' is defined but never used                                              no-unused-vars
+  46:19987  warning  't' is defined but never used                                              no-unused-vars
+  46:20269  warning  't' is defined but never used                                              no-unused-vars
+  46:20566  warning  't' is defined but never used                                              no-unused-vars
+  46:20862  warning  't' is defined but never used                                              no-unused-vars
+  46:21258  warning  't' is defined but never used                                              no-unused-vars
+  46:21590  warning  't' is defined but never used                                              no-unused-vars
+  46:21894  warning  't' is defined but never used                                              no-unused-vars
+  46:22332  warning  't' is defined but never used                                              no-unused-vars
+  46:22572  warning  't' is defined but never used                                              no-unused-vars
+  46:22836  warning  't' is defined but never used                                              no-unused-vars
+  46:23087  warning  't' is defined but never used                                              no-unused-vars
+  46:23357  warning  't' is defined but never used                                              no-unused-vars
+  46:23629  warning  't' is defined but never used                                              no-unused-vars
+  46:23848  warning  't' is defined but never used                                              no-unused-vars
+  46:24072  warning  't' is defined but never used                                              no-unused-vars
+  46:24327  warning  't' is defined but never used                                              no-unused-vars
+  46:24544  warning  't' is defined but never used                                              no-unused-vars
+  46:24821  warning  't' is defined but never used                                              no-unused-vars
+  46:25157  warning  't' is defined but never used                                              no-unused-vars
+  46:25425  warning  't' is defined but never used                                              no-unused-vars
+  46:25655  warning  't' is defined but never used                                              no-unused-vars
+  46:25916  warning  't' is defined but never used                                              no-unused-vars
+  46:26219  warning  't' is defined but never used                                              no-unused-vars
+  46:26715  warning  't' is defined but never used                                              no-unused-vars
+  46:27013  warning  't' is defined but never used                                              no-unused-vars
+  46:27315  warning  't' is defined but never used                                              no-unused-vars
+  46:28032  warning  't' is defined but never used                                              no-unused-vars
+  46:28402  warning  't' is defined but never used                                              no-unused-vars
+  46:28804  warning  't' is defined but never used                                              no-unused-vars
+  46:29073  warning  't' is defined but never used                                              no-unused-vars
+  46:29356  warning  't' is defined but never used                                              no-unused-vars
+  46:29650  warning  't' is defined but never used                                              no-unused-vars
+  46:29927  warning  't' is defined but never used                                              no-unused-vars
+  46:30237  warning  't' is defined but never used                                              no-unused-vars
+  46:30652  warning  't' is defined but never used                                              no-unused-vars
+  46:31037  warning  't' is defined but never used                                              no-unused-vars
+  46:31511  warning  't' is defined but never used                                              no-unused-vars
+  46:31832  warning  't' is defined but never used                                              no-unused-vars
+  47:120    warning  't' is defined but never used                                              no-unused-vars
+  47:515    warning  't' is defined but never used                                              no-unused-vars
+  47:860    warning  't' is defined but never used                                              no-unused-vars
+  47:1388   warning  't' is defined but never used                                              no-unused-vars
+  47:1740   warning  't' is defined but never used                                              no-unused-vars
+  47:2021   warning  't' is defined but never used                                              no-unused-vars
+  47:2427   warning  't' is defined but never used                                              no-unused-vars
+  47:2674   warning  't' is defined but never used                                              no-unused-vars
+  47:2907   warning  't' is defined but never used                                              no-unused-vars
+  47:3216   warning  't' is defined but never used                                              no-unused-vars
+  47:3476   warning  't' is defined but never used                                              no-unused-vars
+  47:3893   warning  't' is defined but never used                                              no-unused-vars
+  47:4176   warning  't' is defined but never used                                              no-unused-vars
+  47:4705   warning  't' is defined but never used                                              no-unused-vars
+  47:5011   warning  't' is defined but never used                                              no-unused-vars
+  47:5311   warning  't' is defined but never used                                              no-unused-vars
+  47:5687   warning  't' is defined but never used                                              no-unused-vars
+  47:6066   warning  't' is defined but never used                                              no-unused-vars
+  47:6423   warning  't' is defined but never used                                              no-unused-vars
+  47:6779   warning  't' is defined but never used                                              no-unused-vars
+  47:7131   warning  't' is defined but never used                                              no-unused-vars
+  47:7486   warning  't' is defined but never used                                              no-unused-vars
+  47:7838   warning  't' is defined but never used                                              no-unused-vars
+  47:8229   warning  't' is defined but never used                                              no-unused-vars
+  47:8479   warning  't' is defined but never used                                              no-unused-vars
+  47:8865   warning  't' is defined but never used                                              no-unused-vars
+  47:9274   warning  't' is defined but never used                                              no-unused-vars
+  47:9658   warning  't' is defined but never used                                              no-unused-vars
+  47:10063  warning  't' is defined but never used                                              no-unused-vars
+  47:10472  warning  't' is defined but never used                                              no-unused-vars
+  47:10847  warning  't' is defined but never used                                              no-unused-vars
+  47:11125  warning  't' is defined but never used                                              no-unused-vars
+  47:11904  warning  't' is defined but never used                                              no-unused-vars
+  47:12410  warning  't' is defined but never used                                              no-unused-vars
+  47:12685  warning  't' is defined but never used                                              no-unused-vars
+  47:13147  warning  't' is defined but never used                                              no-unused-vars
+  47:13363  warning  't' is defined but never used                                              no-unused-vars
+  47:13609  warning  't' is defined but never used                                              no-unused-vars
+  47:13822  warning  't' is defined but never used                                              no-unused-vars
+  47:14077  warning  't' is defined but never used                                              no-unused-vars
+  47:14297  warning  't' is defined but never used                                              no-unused-vars
+  47:14545  warning  't' is defined but never used                                              no-unused-vars
+  47:14763  warning  't' is defined but never used                                              no-unused-vars
+  47:14952  warning  't' is defined but never used                                              no-unused-vars
+  47:15166  warning  't' is defined but never used                                              no-unused-vars
+  47:15406  warning  't' is defined but never used                                              no-unused-vars
+  47:15623  warning  't' is defined but never used                                              no-unused-vars
+  47:15868  warning  't' is defined but never used                                              no-unused-vars
+  47:16166  warning  't' is defined but never used                                              no-unused-vars
+  47:16418  warning  't' is defined but never used                                              no-unused-vars
+  47:16615  warning  't' is defined but never used                                              no-unused-vars
+  47:16829  warning  't' is defined but never used                                              no-unused-vars
+  47:17041  warning  't' is defined but never used                                              no-unused-vars
+  47:17254  warning  't' is defined but never used                                              no-unused-vars
+  47:17486  warning  't' is defined but never used                                              no-unused-vars
+  47:17697  warning  't' is defined but never used                                              no-unused-vars
+  47:17927  warning  't' is defined but never used                                              no-unused-vars
+  47:18176  warning  't' is defined but never used                                              no-unused-vars
+  47:18364  warning  't' is defined but never used                                              no-unused-vars
+  47:18596  warning  't' is defined but never used                                              no-unused-vars
+  47:18811  warning  't' is defined but never used                                              no-unused-vars
+  47:19011  warning  't' is defined but never used                                              no-unused-vars
+  47:19298  warning  't' is defined but never used                                              no-unused-vars
+  47:19549  warning  't' is defined but never used                                              no-unused-vars
+  47:19808  warning  't' is defined but never used                                              no-unused-vars
+  47:20076  warning  't' is defined but never used                                              no-unused-vars
+  47:20373  warning  't' is defined but never used                                              no-unused-vars
+  47:20820  warning  't' is defined but never used                                              no-unused-vars
+  47:21116  warning  't' is defined but never used                                              no-unused-vars
+  47:21403  warning  't' is defined but never used                                              no-unused-vars
+  47:21658  warning  't' is defined but never used                                              no-unused-vars
+  47:22220  warning  'o' is defined but never used                                              no-unused-vars
+  47:23297  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  47:31084  warning  'i' is defined but never used                                              no-unused-vars
+  48:1041   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  48:1800   warning  'e' is defined but never used                                              no-unused-vars
+  48:1802   warning  't' is defined but never used                                              no-unused-vars
+  48:1886   warning  'e' is defined but never used                                              no-unused-vars
+  48:1973   warning  'e' is defined but never used                                              no-unused-vars
+  48:3676   warning  'e' is defined but never used                                              no-unused-vars
+  48:3958   warning  't' is defined but never used                                              no-unused-vars
+  48:4040   warning  'a' is defined but never used                                              no-unused-vars
+  48:6638   warning  'i' is defined but never used                                              no-unused-vars
+  48:8095   warning  'i' is defined but never used                                              no-unused-vars
+  48:11418  warning  'a' is defined but never used                                              no-unused-vars
+  48:11912  warning  't' is defined but never used                                              no-unused-vars
+  48:12195  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  48:12448  warning  'i' is already defined                                                     no-redeclare
+  48:12465  warning  'o' is already defined                                                     no-redeclare
+  48:12578  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  48:15278  warning  'i' is defined but never used                                              no-unused-vars
+  48:16860  warning  'a' is defined but never used                                              no-unused-vars
+  48:19190  warning  'a' is defined but never used                                              no-unused-vars
+  48:19841  warning  't' is defined but never used                                              no-unused-vars
+  48:20337  warning  'e' is defined but never used                                              no-unused-vars
+  48:20367  warning  'e' is defined but never used                                              no-unused-vars
+  48:20492  warning  'e' is defined but never used                                              no-unused-vars
+  48:20612  warning  'e' is defined but never used                                              no-unused-vars
+  48:23025  warning  'i' is defined but never used                                              no-unused-vars
+  48:25082  warning  'e' is defined but never used                                              no-unused-vars
+  48:25586  warning  'a' is defined but never used                                              no-unused-vars
+  48:28424  warning  'e' is defined but never used                                              no-unused-vars
+  48:28454  warning  'e' is defined but never used                                              no-unused-vars
+  48:28563  warning  'e' is defined but never used                                              no-unused-vars
+  48:28612  warning  'e' is defined but never used                                              no-unused-vars
+  48:28880  warning  'i' is defined but never used                                              no-unused-vars
+  48:29349  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  48:29526  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  48:29677  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  48:29866  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  48:30016  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  48:30199  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  48:30470  warning  'o' is defined but never used                                              no-unused-vars
+  48:30472  warning  's' is defined but never used                                              no-unused-vars
+  48:31901  warning  'f' is already defined                                                     no-redeclare
+  49:2869   warning  Expected a 'break' statement before 'case'                                 no-fallthrough
+  49:6765   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  49:7102   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  49:7906   warning  'i' is defined but never used                                              no-unused-vars
+  49:9513   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  49:10064  warning  'a' is defined but never used                                              no-unused-vars
+  49:10066  warning  'o' is defined but never used                                              no-unused-vars
+  49:10294  warning  'e' is defined but never used                                              no-unused-vars
+  49:10398  warning  'e' is defined but never used                                              no-unused-vars
+  49:10822  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  49:11121  warning  'e' is defined but never used                                              no-unused-vars
+  49:11123  warning  't' is defined but never used                                              no-unused-vars
+  49:11125  warning  'r' is defined but never used                                              no-unused-vars
+  49:11127  warning  'n' is defined but never used                                              no-unused-vars
+  49:12779  warning  'i' is defined but never used                                              no-unused-vars
+  49:14732  warning  't' is defined but never used                                              no-unused-vars
+  49:14734  warning  'r' is defined but never used                                              no-unused-vars
+  49:16491  warning  't' is defined but never used                                              no-unused-vars
+  49:17153  warning  't' is defined but never used                                              no-unused-vars
+  49:21144  warning  'r' is defined but never used                                              no-unused-vars
+  49:25539  warning  'o' is defined but never used                                              no-unused-vars
+  50:14511  warning  'r' is already defined                                                     no-redeclare
+  50:16713  warning  'r' is already defined                                                     no-redeclare
+  50:29528  warning  't' is defined but never used                                              no-unused-vars
+  51:12431  warning  'n' is already defined                                                     no-redeclare
+  51:12512  warning  'o' is already defined                                                     no-redeclare
+  51:12781  warning  'f' is already defined                                                     no-redeclare
+  51:13162  warning  't' is defined but never used                                              no-unused-vars
+  51:13338  warning  'e' is already defined                                                     no-redeclare
+  51:18524  warning  't' is defined but never used                                              no-unused-vars
+  51:21305  warning  't' is defined but never used                                              no-unused-vars
+  51:29462  warning  'e' is defined but never used                                              no-unused-vars
+  51:29494  warning  't' is defined but never used                                              no-unused-vars
+  52:1560   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  52:1588   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  52:1616   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  52:1648   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  52:1680   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  52:1712   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  52:3264   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  52:3292   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  52:3320   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  52:3352   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  52:3384   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  52:3753   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  52:3781   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  52:3809   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  52:3833   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  52:3857   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  52:3881   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  52:3904   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  52:3927   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  52:4285   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  52:4316   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  52:4347   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  52:4378   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  52:4760   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  52:4791   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  52:4822   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  52:4853   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  52:4884   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  52:4915   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  52:6058   warning  't' is already defined                                                     no-redeclare
+  52:18673  warning  'f' is defined but never used                                              no-unused-vars
+  52:20009  warning  'e' is defined but never used                                              no-unused-vars
+  52:24166  warning  'i' is defined but never used                                              no-unused-vars
+  52:24337  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  52:25039  warning  'n' is already defined                                                     no-redeclare
+  52:25182  warning  'i' is already defined                                                     no-redeclare
+  52:25186  warning  'n' is already defined                                                     no-redeclare
+  52:26411  warning  'a' is already defined                                                     no-redeclare
+  52:26415  warning  's' is already defined                                                     no-redeclare
+  52:26660  warning  'a' is already defined                                                     no-redeclare
+  52:26664  warning  'i' is already defined                                                     no-redeclare
+  52:26716  warning  'a' is already defined                                                     no-redeclare
+  52:26720  warning  'i' is already defined                                                     no-redeclare
+  52:27151  warning  'i' is defined but never used                                              no-unused-vars
+  52:27291  warning  'i' is defined but never used                                              no-unused-vars
+  53:965    warning  'e' is defined but never used                                              no-unused-vars
+  53:967    warning  't' is defined but never used                                              no-unused-vars
+  53:2082   warning  'e' is defined but never used                                              no-unused-vars
+  53:2084   warning  't' is defined but never used                                              no-unused-vars
+  53:3068   warning  'l' is already defined                                                     no-redeclare
+  53:3114   warning  'p' is already defined                                                     no-redeclare
+  53:3224   warning  'p' is already defined                                                     no-redeclare
+  53:4146   warning  's' is already defined                                                     no-redeclare
+  53:4198   warning  'c' is already defined                                                     no-redeclare
+  53:4232   warning  'f' is already defined                                                     no-redeclare
+  53:4234   warning  'g' is already defined                                                     no-redeclare
+  53:4236   warning  'v' is already defined                                                     no-redeclare
+  53:4248   warning  'u' is already defined                                                     no-redeclare
+  53:4328   warning  'y' is already defined                                                     no-redeclare
+  53:4706   warning  't' is defined but never used                                              no-unused-vars
+  53:6126   warning  Unnecessary escape character: \.                                           no-useless-escape
+  53:19921  warning  'e' is defined but never used                                              no-unused-vars
+  53:20235  warning  't' is defined but never used                                              no-unused-vars
+  53:20237  warning  'r' is defined but never used                                              no-unused-vars
+  53:20239  warning  'n' is defined but never used                                              no-unused-vars
+
+/home/runner/work/exp-fundamental-fuzzy-logic-iitkgp/exp-fundamental-fuzzy-logic-iitkgp/experiment/simulation/js/vlab-quiz-exp1.js
+  1:5  warning  'quizJSON' is assigned a value but never used  no-unused-vars
+
+✖ 554 problems (2 errors, 552 warnings)
+  0 errors and 4 warnings potentially fixable with the `--fix` option.
+
